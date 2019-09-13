@@ -1,1 +1,1 @@
-console.log('init master');
+console.log('start');
